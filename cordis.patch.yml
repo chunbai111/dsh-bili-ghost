@@ -1,0 +1,6 @@
+# dsh-bili-ghost: a Host half that proxies Bilibili's 鬼畜 feed through a
+# same-origin route, and a Client half that plays it in a floating window while
+# the AI is running.
+- insert:
+    - id: dsh-bili-ghost
+      name: dsh-bili-ghost

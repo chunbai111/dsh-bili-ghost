@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Bilibili ghost window",
+    "description": "Plays Bilibili's editor-picked weekly must-watch and 入站必看 videos first (鬼畜 and comedy ahead of other genres), then fills the playlist with today's top 鬼畜 remixes ranked by views, likes, coins, favorites, danmaku, replies and shares. The floating window opens while the AI runs and closes as soon as the run ends; on quiet days it falls back to the latest uploads. A ghost pill reopens a window you hide."
+  }
+}
